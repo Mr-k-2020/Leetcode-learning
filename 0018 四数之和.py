@@ -1,6 +1,8 @@
 # _*_coding:utf-8_*_
 # @Time    : 2020/11/5 0:22
 
+# https://leetcode-cn.com/problems/4sum/
+
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
         n = len(nums)
